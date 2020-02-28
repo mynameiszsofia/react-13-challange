@@ -71,7 +71,7 @@ class PostMovie extends React.Component {
                 id="poster"
                 name="poster"
                 onChange={this.onChange}
-                value={this.state.image}
+                value={this.state.poster}
               />
             </div>
 
